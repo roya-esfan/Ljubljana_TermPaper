@@ -1,0 +1,13 @@
+[project]
+name = "siliconcrowds"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fireworks-ai>=1.0.0a26",
+    "ipykernel>=7.1.0",
+    "rich>=14.3.1",
+    "supabase>=2.27.2",
+]
